@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class FakeDb implements StudentDb {
     private final java.util.List<StudentRecord> rows = new java.util.ArrayList<>();
 

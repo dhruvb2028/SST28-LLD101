@@ -13,3 +13,7 @@ Thumbs.db
 tmp/
 out/
 build/
+# Ignore interview scripts and explanations
+**/InterviewScript.md
+**/InterviewDetailedExplanation.md
+**/InterviewQuestions.md
