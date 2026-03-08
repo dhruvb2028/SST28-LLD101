@@ -12,3 +12,4 @@ public class DiscountRules {
         return 0.0;
     }
 }
+ 
